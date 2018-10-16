@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "463427828438",
+    "firebase_url": "https://racobos-44efe.firebaseio.com",
+    "project_id": "racobos-44efe",
+    "storage_bucket": "racobos-44efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463427828438:android:b327f00e2934ba5c",
+        "android_client_info": {
+          "package_name": "com.racobos.manhattan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463427828438-46fn3ghd3g24kel6t2pq3qgvegahdh9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJW8Q6nCfYgZXs-zcH4zqPrARnOT7kZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
