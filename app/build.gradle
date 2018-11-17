@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.racobos.teammus"
+        applicationId "com.racobos.manhattan"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
